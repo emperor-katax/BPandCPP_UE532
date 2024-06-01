@@ -2,32 +2,25 @@
 Developed with Unreal Engine 5.3.2
 by: Katax 
 
+LinkedIn: www.linkedin.com/in/cliff-sharif<br> 
+Home: www.kataxwork.com<br> 
 
-
-Email: katax.emperor@gmail.com 
-
-
-LinkedIn: www.linkedin.com/in/cliff-sharif
-
-
-Home: www.kataxwork.com
-
-
-
+> [!NOTE]
+> Blueprint and C++
 
 
 This application:
 
-> 6 maps - 3 blueprint and 3 C++
-
-> Using collision scenarios, each as separate map with similar Blueprint and C++ approach
-
-> Search and find properties on collision actor with C++
+> 6 maps - 3 blueprint and 3 C++ <br> 
+> Using collision scenarios, each as separate map with similar Blueprint and C++ approach <br> 
+> Search and find properties on collision actor with C++ <br> 
 
 
-Using:<b>
+Using:
 
-C++ : TFieldIterator<UProperty>,  FindPropertyByName, ContainerPtrToValuePtr, SpotLightComponent, TextRenderComponent
-Blueprint: TextRender, SpotLight </b>
+C++ : TFieldIterator<UProperty>,  FindPropertyByName, ContainerPtrToValuePtr, SpotLightComponent, TextRenderComponent <br> 
+Blueprint: TextRender, SpotLight <br> 
+
+<h4> This project is designed for teaching Unreal Engine by demonstration a functional prototype. <br> The project template is optimized to reduce size.  </h4>
 
 
